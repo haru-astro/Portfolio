@@ -12,14 +12,14 @@ export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
     default: '早川晴のポートフォリオ',
-    template: '%s | Next.js Portfolio Starter',
+    template: '早川晴のポートフォリオです',
   },
   description: "This is Haru Hyakawa's portfolio.",
   openGraph: {
     title: "早川晴のポートフォリオ",
     description: "This is Haru Hayakawa's portfolio.",
     url: baseUrl,
-    siteName: 'My Portfolio',
+    siteName: '早川晴のポートフォリオ',
     locale: 'ja_JP',
     type: 'website',
   },

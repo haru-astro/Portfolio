@@ -29,8 +29,7 @@ export default function Footer() {
             target="_blank"
             href="https://twitter.com/haru_astro_"
           >
-            <Image src="/public/images/Twitter.png" width={14} height={14} alt="Instagram" />
-            <p className="ml-2 h-7">X</p>
+            <Image src="/images/Twitter.png" width={20} height={20} alt="Twitter" />
           </a>
         </li>
         <li>
@@ -40,8 +39,7 @@ export default function Footer() {
             target="_blank"
             href="https://www.instagram.com/haru_nightsky/"
           >
-            <Image src="/public/images/Instagram.png" width={14} height={14} alt="Instagram" />
-            <p className="ml-2 h-7">Instagram</p>
+            <Image src="/images/Instagram.png" width={20} height={20} alt="Instagram" />
           </a>
         </li>
         <li>
@@ -51,8 +49,7 @@ export default function Footer() {
             target="_blank"
             href="https://note.com/haru_astro/all"
           >
-            <Image src="/public/images/note.png" width={14} height={14} alt="Instagram" />
-            <p className="ml-2 h-7">note</p>
+            <Image src="/images/note.png" width={20} height={20} alt="note" />
           </a>
         </li>
         <li>
@@ -62,8 +59,7 @@ export default function Footer() {
             target="_blank"
             href="https://github.com/haru-astro"
           >
-            <Image src="/public/images/github.png" width={14} height={14} alt="Instagram" />
-            <p className="ml-2 h-7">github</p>
+            <Image src="/images/github.png" width={20} height={20} alt="GitHub" />
           </a>
         </li>
       </ul>
