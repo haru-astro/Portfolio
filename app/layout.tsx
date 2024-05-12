@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
     default: '早川晴のポートフォリオ',
-    template: '早川晴のポートフォリオです',
+    template: '早川晴のポートフォリオ',
   },
   description: "This is Haru Hyakawa's portfolio.",
   openGraph: {

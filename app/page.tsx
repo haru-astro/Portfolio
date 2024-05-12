@@ -4,7 +4,7 @@ import Image from 'next/image'
 export default function Page() {
   return (
     <section>
-      <Image src="/images/Milkyway.jpg" width={700} height={400} alt="Milkywayr" />
+      <Image src="/images/Milkyway.jpg" width={700} height={400} alt="Milkyway" />
       <h1 className="my-8 text-2xl font-semibold"> 
         Welcome to my portfolio！
       </h1>
@@ -37,7 +37,7 @@ export default function Page() {
         <h2 className="font-semibold tracking-tighter mr-2">{'Award'}</h2>
       <div className="flex-grow h-0.5 bg-blue-400"></div>
       </div>
-        <p className="mb-2">2023年8月　第16回国際天文学・天体物理学オリンピック　出場(<a href="https://youtu.be/qBhWPSIasmU?t=7974" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">Youtube</a>)</p>
+        <p className="mb-2">2023年8月　第16回国際天文学・天体物理学オリンピック　出場(<a href="https://youtu.be/qBhWPSIasmU?t=7974" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">YouTube</a>)</p>
         <p className="mb-2">2023年3月　第2回日本天文学オリンピック　金賞</p>
         <p className="mb-2">2023年2月　第22回日本情報オリンピック　本選出場</p>
       </div>
