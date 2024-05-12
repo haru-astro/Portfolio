@@ -29,7 +29,7 @@ export default function Footer() {
             target="_blank"
             href="https://twitter.com/haru_astro_"
           >
-            <Image src="../../public/images/Twitter" width={20} height={20} alt="Twitter" />
+            <Image src="../../public/images/Twitter.png" width={20} height={20} alt="Twitter" />
           </a>
         </li>
         <li>
