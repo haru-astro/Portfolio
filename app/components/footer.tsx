@@ -21,7 +21,7 @@ function ArrowIcon() {
 export default function Footer() {
   return (
     <footer className="mb-16">
-      <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
+      <ul className="font-sm mt-8 flex justify-center space-x-4 space-y-2 text-neutral-600 dark:text-neutral-300 md:space-x-5 md:space-y-0 md:flex-row md:justify-center">
         <li>
           <a
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
@@ -29,7 +29,7 @@ export default function Footer() {
             target="_blank"
             href="https://twitter.com/haru_astro_"
           >
-            <Image src="/../../public/images/Twitter.png" width={20} height={20} alt="Twitter" />
+            <Image src="/images/Twitter.png" width={20} height={20} alt="Twitter" />
           </a>
         </li>
         <li>
@@ -39,7 +39,7 @@ export default function Footer() {
             target="_blank"
             href="https://www.instagram.com/haru_nightsky/"
           >
-            <Image src="/../../public/images/Instagram.png" width={20} height={20} alt="Instagram" />
+            <Image src="/images/Instagram.png" width={20} height={20} alt="Instagram" />
           </a>
         </li>
         <li>
@@ -49,7 +49,7 @@ export default function Footer() {
             target="_blank"
             href="https://note.com/haru_astro/all"
           >
-            <Image src="/public/images/note.png" width={20} height={20} alt="note" />
+            <Image src="/images/note.png" width={20} height={20} alt="note" />
           </a>
         </li>
         <li>
@@ -63,7 +63,7 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-      <p className="mt-8 text-neutral-600 dark:text-neutral-300">
+      <p className="mt-8 text-neutral-600 dark:text-neutral-300 mx-auto text-center">
         © {new Date().getFullYear()} MIT Licensed
       </p>
     </footer>
