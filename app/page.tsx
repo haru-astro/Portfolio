@@ -7,7 +7,7 @@ export default function Page() {
         こんにちは
       </h1>
       <p className="mb-4 ">
-        {`早川晴です。天文学に興味があります。`}
+        {`早川晴です。現在東京大学教養学部前期課程理科一類B1で後期から理学部天文学科に進学します。`}
       </p>
       
       <div className="my-8">
