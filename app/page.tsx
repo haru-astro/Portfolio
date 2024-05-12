@@ -4,7 +4,7 @@ import Image from 'next/image'
 export default function Page() {
   return (
     <section>
-      <Image src="../images/Milkyway.jpg" width={700} height={400} alt="Milkyway" />
+      <Image src="https://github.com/haru-astro/portfolio/blob/main/public/images/Milkyway.jpg?raw=true" width={700} height={400} alt="Milkyway" />
       <h1 className="my-8 text-2xl font-semibold"> 
         Welcome to my portfolio！
       </h1>
