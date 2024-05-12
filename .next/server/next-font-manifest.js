@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/hayakawaharu/portfolio/app/layout":["static/media/f980ec13b5b5e554.p.woff2","static/media/ec1a1eae803b668e-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/hayakawaharu/portfolio/app/layout\":[\"static/media/66f30814ff6d7cdf.p.woff2\",\"static/media/e11418ac562b8ac1-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
