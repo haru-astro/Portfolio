@@ -29,7 +29,7 @@ export default function Footer() {
             target="_blank"
             href="https://twitter.com/haru_astro_"
           >
-            <Image src="https://github.com/haru-astro/portfolio/blob/main/public/images/Twitter.png" width={20} height={20} alt="Twitter" />
+            <Image src="https://github.com/haru-astro/portfolio/blob/main/public/images/Twitter.png?raw=true" width={20} height={20} alt="Twitter" />
           </a>
         </li>
         <li>
@@ -39,7 +39,7 @@ export default function Footer() {
             target="_blank"
             href="https://www.instagram.com/haru_nightsky/"
           >
-            <Image src="https://github.com/haru-astro/portfolio/blob/main/public/images/Instagram.png" width={20} height={20} alt="Instagram" />
+            <Image src="https://github.com/haru-astro/portfolio/blob/main/public/images/Instagram.png?raw=true" width={20} height={20} alt="Instagram" />
           </a>
         </li>
         <li>
@@ -59,7 +59,7 @@ export default function Footer() {
             target="_blank"
             href="https://github.com/haru-astro"
           >
-            <Image src="https://github.com/haru-astro/portfolio/blob/main/public/images/github.png" width={20} height={20} alt="Instagram" />
+            <Image src="https://github.com/haru-astro/portfolio/blob/main/public/images/github.png?raw=true" width={20} height={20} alt="Instagram" />
           </a>
         </li>
       </ul>
